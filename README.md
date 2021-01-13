@@ -4,7 +4,7 @@
 
 HOW TO RUN :
 after cloning this repo in your computer 
-1. create database in mysql server
+1. create database in [mysql](https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html) server
    database name : flask_demo
    in this database import id.sql file.
 2. open cmd
