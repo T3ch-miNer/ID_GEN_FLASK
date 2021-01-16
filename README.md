@@ -1,6 +1,6 @@
 ## ID_GEN_FLASK
 
-##Objective : Import your messy excel or CSV file and export it into a cleaned data where all the duplicate and fraudulent data is filtered.
+##Objective : Import your messy excel or CSV file and export it into a cleaned data where all the duplicate and fraudulent data(like name , number , address) is filtered.
 
 HOW TO RUN :
 after cloning this repo in your computer 
